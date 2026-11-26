@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LambdaAnnotationsTestProj/LambdaAnnotationsTestProj.csproj" />
+  <Project Path="LambdaProj/LambdaProj.csproj" />
+</Solution>
